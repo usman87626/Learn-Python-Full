@@ -1,7 +1,6 @@
 You can also Learn Data Structures in Python through visiting the following links:
 
 # Stack Data Structure
-
 <a href="https://github.com/usman87626/Learn-Python-Full/tree/master/Data-Structures-in-Python-master/Full%20Code/Stack-in-Python-master"> Stack -Full Code </a> 
 
 <a href="https://github.com/usman87626/Learn-Python-Full/blob/master/Data-Structures-in-Python-master/Jupyter%20Notebook/Stack%20Abstract%20Data%20Type.ipynb
@@ -9,7 +8,6 @@ You can also Learn Data Structures in Python through visiting the following link
 
 
 # Singly Linked List
-
 <a href="https://github.com/usman87626/Learn-Python-Full/tree/master/Data-Structures-in-Python-master/Full%20Code/Singly-Linked-List-in-Python-master
 ">Single Linked List - Full Code </a> 
 
@@ -18,7 +16,6 @@ You can also Learn Data Structures in Python through visiting the following link
 
 
 # Doubly Linked List
-
 <a href="https://github.com/usman87626/Learn-Python-Full/tree/master/Data-Structures-in-Python-master/Full%20Code/Doubly-Linked-List-in-Python-master
 ">Doubly Linked List - Full Code</a> 
 
@@ -28,7 +25,6 @@ You can also Learn Data Structures in Python through visiting the following link
 
 
 # Binary Search Tree
-
 <a href="https://github.com/usman87626/Learn-Python-Full/tree/master/Data-Structures-in-Python-master/Full%20Code/Binary-Search-Tree-in-Python-master
 ">Binary Search Tree - Full Code </a> 
 
