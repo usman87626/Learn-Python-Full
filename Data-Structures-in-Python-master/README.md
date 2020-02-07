@@ -3,9 +3,9 @@ This repository contains the Basic Data Structures in python that includes:
 
 # Stack Data Structure
 
-Full Code Link: 
+<a href="https://github.com/usman87626/Learn-Data-Structures-in-Python/tree/master/Full%20Code/Stack-in-Python-master"> Full Code Here </a> 
 
-https://github.com/usman87626/Learn-Data-Structures-in-Python/tree/master/Full%20Code/Stack-in-Python-master
+
 
 Jupyter Notebook Link: 
 
