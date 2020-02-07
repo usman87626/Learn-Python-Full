@@ -1,0 +1,28 @@
+from linkedlist import LinkList
+#Creating linkedList objects
+first = LinkList()
+
+
+first.insertAtLast(20)
+first.insertAtLast(40)
+first.insertAtLast(60)
+first.insertAtLast(80)
+first.insertAtLast(90)
+first.insertAtLast(100)
+# first.insertAtStart(20)
+# first.insertAtStart(40)
+# first.insertAtStart(60)
+# first.insertAtStart(100)
+# first.insertAtStart(80)
+# first.printList()
+# first.deleteFromStart()
+# first.deleteFromLast()
+# first.deleteFromLast()
+# first.deleteFromStart()
+# first.deleteFromStart()
+# first.deleteFromStart()
+# first.deleteFromStart()
+# first.deleteFromStart()
+first.printList()
+first.deleteGiven(80)
+first.printList()
