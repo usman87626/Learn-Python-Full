@@ -2,30 +2,30 @@ You can also find:
 
 # Singly Linked List
 
-Full Code Link: 
+<a href="https://github.com/usman87626/Learn-Python-Full/tree/master/Data-Structures-in-Python-master/Full%20Code/Singly-Linked-List-in-Python-master
+">Single Linked List - Full Code </a> 
 
-https://github.com/usman87626/Learn-Data-Structures-in-Python/tree/master/Full%20Code/Singly-Linked-List-in-Python-master
+<a href="https://github.com/usman87626/Learn-Python-Full/blob/master/Data-Structures-in-Python-master/Jupyter%20Notebook/Singly%20Linked%20List.ipynb
+">Single Linked List - Jupyter Notebook</a> 
 
-Jupyter Notebook Link: 
-
-https://github.com/usman87626/Learn-Data-Structures-in-Python/blob/master/Jupyter%20Notebook/Singly%20Linked%20List.ipynb
 
 # Doubly Linked List
 
-Full Code Link: 
+<a href="https://github.com/usman87626/Learn-Python-Full/tree/master/Data-Structures-in-Python-master/Full%20Code/Doubly-Linked-List-in-Python-master
+">Doubly Linked List - Full Code</a> 
 
-https://github.com/usman87626/Learn-Data-Structures-in-Python/tree/master/Full%20Code/Doubly-Linked-List-in-Python-master
 
-Jupyter Notebook Link: 
+<a href="https://github.com/usman87626/Learn-Python-Full/blob/master/Data-Structures-in-Python-master/Jupyter%20Notebook/Doubly%20Linked%20List.ipynb
+">Doubly Linked List - Jupyter Notebook </a> 
 
-https://github.com/usman87626/Learn-Data-Structures-in-Python/blob/master/Jupyter%20Notebook/Doubly%20Linked%20List.ipynb
 
 # Binary Search Tree
 
-Full Code Link: 
+<a href="https://github.com/usman87626/Learn-Python-Full/tree/master/Data-Structures-in-Python-master/Full%20Code/Binary-Search-Tree-in-Python-master
+">Binary Search Tree - Full Code </a> 
 
-https://github.com/usman87626/Learn-Data-Structures-in-Python/tree/master/Full%20Code/Binary-Search-Tree-in-Python-master
 
-Jupyter Notebook Link: 
+<a href="https://github.com/usman87626/Learn-Python-Full/blob/master/Data-Structures-in-Python-master/Jupyter%20Notebook/Tree%20Data%20Structure.ipynb
+">Binary Search Tree - Jupyter Notebook </a> 
 
-https://github.com/usman87626/Learn-Data-Structures-in-Python/blob/master/Jupyter%20Notebook/Tree%20Data%20Structure.ipynb
+
