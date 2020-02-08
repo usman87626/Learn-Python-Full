@@ -6,8 +6,11 @@ Also it is an ongoing repository i.e. Under construction which means that there 
 # Important Links:
 
 # Basic Python in Jupyter Notebook
-<a href="https://github.com/usman87626/Learn-Python-Full/tree/master/Basic-Python-Programs-master"> Basic Python through programs</a>
-
+<ol>
+  <li>
+<a href="https://github.com/usman87626/Learn-Python-Full/blob/master/Basic-Python-Programs-master/01.%20Variables%20%2C%20TypeCasting%20and%20Printing.ipynb"> 01. Variables , TypeCasting and Printing</a>
+    </li>
+</ol>
 
 # Data Structures
 # Stack Data Structure
