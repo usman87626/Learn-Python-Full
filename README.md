@@ -11,7 +11,7 @@ Also it is an ongoing repository i.e. Under construction which means that there 
 <a href="https://github.com/usman87626/Learn-Python-Full/blob/master/Basic-Python-Programs-master/01.%20Variables%20%2C%20TypeCasting%20and%20Printing.ipynb">Variables , TypeCasting and Printing</a>
     </li>
       <li>
-            <a href="https://github.com/usman87626/Learn-Python-Full/blob/master/Basic-Python-Programs-master/              02.Strings%20%26%20Basic%20String%20Slicing.ipynb">
+            <a href="https://github.com/usman87626/Learn-Python-Full/blob/master/Basic-Python-Programs-master/02.Strings%20%26%20Basic%20String%20Slicing.ipynb">
             Strings & Basic String Slicing
             </a>
       </li>
