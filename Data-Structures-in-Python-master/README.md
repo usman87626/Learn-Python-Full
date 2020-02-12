@@ -53,8 +53,9 @@ That's it
 NOTE: this code was written in the VS Codium(linux)
 
 # Important Links to learn Basics of Python:
+
 <ol>
-    <li>
+  <li>
 <a href="https://github.com/usman87626/Learn-Python-Full/blob/master/Basic-Python-Programs-master/01.%20Variables%20%2C%20TypeCasting%20and%20Printing.ipynb">Variables , TypeCasting and Printing</a>
     </li>
       <li>
@@ -122,4 +123,24 @@ NOTE: this code was written in the VS Codium(linux)
                     Sending variable length(unlimited) arguments 
             </a>
      </li>
- </ol>
+        <li>
+            <a href="https://github.com/usman87626/Learn-Python-Full/blob/master/Basic-Python-Programs-master/15.Exception%20Handling%20with%20Try%2CExcept.ipynb">
+                    Exception Handling(Try Except Finally)
+            </a>
+     </li>
+        <li>
+            <a href="https://github.com/usman87626/Learn-Python-Full/blob/master/Basic-Python-Programs-master/16.Enumerate%20Function.ipynb">
+                    Enumerate Function 
+            </a>
+     </li>
+        <li>
+            <a href="https://github.com/usman87626/Learn-Python-Full/blob/master/Basic-Python-Programs-master/17.Join%20Function.ipynb">
+                    Join Function 
+            </a>
+     </li>
+        <li>
+            <a href="https://github.com/usman87626/Learn-Python-Full/blob/master/Basic-Python-Programs-master/18.Decorators%20in%20Python.ipynb">
+                    Decorators in Python
+            </a>
+     </li>
+</ol>
